@@ -3,4 +3,6 @@
   (lib (name "2024-01-14_16-16-04")(type "KiCad")(uri "/Users/kanishk/Desktop/MIT/PCB design/Schematic/Resistor/100KOHM/ul_RC0603FR-07100KL/KiCADv6/2024-01-14_16-16-04.kicad_sym")(options "")(descr ""))
   (lib (name "2024-01-19_19-46-53")(type "KiCad")(uri "/Users/kanishk/Desktop/MIT/PCB design/Schematic/Resistor/5.1kogm/2024-01-19_19-46-53.kicad_sym")(options "")(descr ""))
   (lib (name "P0915N-FC15BR100K")(type "KiCad")(uri "/Users/kanishk/Desktop/MIT/PCB design/Schematic/P0915N_FC15BR100K/P0915N-FC15BR100K.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-20_01-26-05")(type "KiCad")(uri "/Users/kanishk/Desktop/MIT/PCB design/Schematic/Capacitor/KiCADv6 2/2024-01-20_01-26-05.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-037A")(type "KiCad")(uri "/Users/kanishk/Downloads/PJ_037A (1)/PJ-037A.kicad_sym")(options "")(descr ""))
 )
